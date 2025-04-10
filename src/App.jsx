@@ -12,7 +12,7 @@ function App() {
 
     const translations = {
       uz: {
-        title: "Fikr-mulohaza shakli",
+        title: "Fikr-mulohaza",
         placeholder: "Fikringizni shu yerga yozing...",
         submit: "Yuborish",
         thankYou: "Fikringiz uchun rahmat!",
